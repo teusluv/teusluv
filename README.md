@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou Mateus Nunes👋
 
-<!--
-**teusluv/teusluv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor apaixonado por tecnologia e programação. Estou sempre buscando aprender novas ferramentas e melhorar minhas habilidades. Atualmente, estou focado em **java e python**, mas tenho experiência com várias outras tecnologias!
 
-Here are some ideas to get you started:
+- 🌱 Estou fazendo **Ciência da computação**.
+- 💬 Se você quiser saber mais sobre mim, sinta-se à vontade para me chamar!
+- 📫 Como me encontrar:
+  - **E-mail**: jmateus12326609@gmail.com
+  
+  - **Insta**: [@teusluv](https://www.instagram.com/teusluv/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Aqui estão algumas das tecnologias e ferramentas que eu uso no meu dia a dia:
+
+- **Linguagens**: Python, Java
+
