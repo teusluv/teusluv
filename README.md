@@ -45,9 +45,6 @@
   <a href="https://github.com/teusluv/Faculdade.">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=teusluv&repo=Faculdade.&theme=tokyonight" />
   </a>
-  <a href="https://github.com/teusluv/SpringBoot-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=teusluv&repo=SpringBoot-Project&theme=tokyonight" />
-  </a>
 </p>
 
 
