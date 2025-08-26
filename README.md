@@ -39,10 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teusluv&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
-
-
-## 📂 Repositórios em Destaque
-
 ## 📂 Repositórios em Destaque
 
 <p align="center">
