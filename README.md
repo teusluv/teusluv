@@ -33,49 +33,36 @@
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,docker,git,linux,idea" />
 </p>
 
----
-
 ## 🟩 Linguagem Principal
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teusluv&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
----
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teusluv&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=teusluv&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
----
+## 📂 Repositórios em Destaque
 
 ## 📂 Repositórios em Destaque
 
 <p align="center">
-  <a href="https://github.com/teusluv/Faculdade.-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=teusluv&repo=Faculdade.-1&theme=tokyonight" />
+  <a href="https://github.com/teusluv/Java-API">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=teusluv&repo=Java-API&theme=tokyonight" />
   </a>
-  <a href="https://github.com/teusluv/outro-repositorio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=teusluv&repo=outro-repositorio&theme=tokyonight" />
+  <a href="https://github.com/teusluv/SpringBoot-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=teusluv&repo=SpringBoot-Project&theme=tokyonight" />
   </a>
 </p>
 
----
 
 ## 🌐 Contato
 
 <p align="center">
-  <a href="mailto:jmateus12326609@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="jmateus12326609@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/teusluv"><img src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
-
-<!-- Rodapé decorativo -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
