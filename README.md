@@ -16,9 +16,9 @@
 
 ## 👨‍💻 Sobre Mim
 
-🎓 Olá! Eu sou **Mateus**, desenvolvedor com foco em **Java**.  
-💼 Atualmente focado em **backend/Spring/API REST/etc.**.  
-🚀 Buscando oportunidades para aprender, colaborar e crescer na área de desenvolvimento.
+🎓 Olá! Eu sou **Mateus**, desenvolvedor com foco em **Java** — minha principal linguagem de programação.  
+💼 Trabalho principalmente com backend, utilizando frameworks como **Spring Boot** e desenvolvendo APIs REST.  
+🚀 Apaixonado por tecnologia e sempre buscando aprender mais para crescer na carreira.
 
 - 🌱 Atualmente aprendendo: Spring Boot, Docker, Kubernetes
 - 💡 Interesses: Java, APIs, Microsserviços, Open Source
@@ -31,6 +31,14 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,docker,git,linux,idea" />
+</p>
+
+---
+
+## 🟩 Linguagem Principal
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teusluv&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
 ---
@@ -50,7 +58,6 @@
   <a href="https://github.com/teusluv/Faculdade.-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=teusluv&repo=Faculdade.-1&theme=tokyonight" />
   </a>
-  <!-- Exemplo para adicionar mais repositórios, substitua os nomes abaixo -->
   <a href="https://github.com/teusluv/outro-repositorio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=teusluv&repo=outro-repositorio&theme=tokyonight" />
   </a>
