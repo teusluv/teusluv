@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá,%20eu%20sou%20[Mateus%20Nunes]!&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá,%20eu%20sou%20Mateus%20Nunes!&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
