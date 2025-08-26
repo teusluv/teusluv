@@ -30,7 +30,7 @@
 ## 🧠 Habilidades
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,docker,git,linux,idea" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,linux,idea" />
 </p>
 
 ## 🟩 Linguagem Principal
