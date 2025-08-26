@@ -46,8 +46,8 @@
 ## 📂 Repositórios em Destaque
 
 <p align="center">
-  <a href="https://github.com/seu-usuario/repositorio-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=repositorio-1&theme=tokyonight" />
+  <a href="https://github.com/teusluv/repositorio-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=teusluv&repo=Faculdade.-1&theme=tokyonight" />
   </a>
   <a href="https://github.com/seu-usuario/repositorio-2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=repositorio-2&theme=tokyonight" />
@@ -59,9 +59,9 @@
 ## 🌐 Contato
 
 <p align="center">
-  <a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/seu-usuario"><img src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:jmateus12326609@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/teusluv"><img src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
