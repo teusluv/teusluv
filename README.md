@@ -1,21 +1,17 @@
-<!-- Banner superior -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá,%20eu%20sou%20[Seu%20Nome]!&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá,%20eu%20sou%20[Mateus%20Nunes]!&fontSize=40&fontColor=ffffff" />
 </p>
 
-<!-- Saudações -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7A800&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Java;Apaixonado+por+Tecnologia;Bem-vindo+ao+meu+perfil!" />
 </p>
 
-<!-- Foto de perfil -->
 <p align="center">
   <a href="https://github.com/seu-usuario">
-    <img src="https://avatars.githubusercontent.com/u/SEU_ID_DO_GITHUB?v=4" width="150" style="border-radius: 50%;" />
+    <img src="https://avatars.githubusercontent.com/u/200270758?v=4" width="150" style="border-radius: 50%;" />
   </a>
 </p>
 
----
 
 ## 👨‍💻 Sobre Mim
 
@@ -41,8 +37,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=seu-usuario&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=teusluv&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=teusluv&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
