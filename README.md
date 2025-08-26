@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="jmateus12326609@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-mateus-santos-nunes-526a12310/"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/teusluv"><img src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
