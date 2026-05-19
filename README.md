@@ -36,14 +36,14 @@
 ## 🟩 Linguagem Principal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teusluv&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teusluv&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ## 📂 Repositórios em Destaque
 
 <p align="center">
   <a href="https://github.com/teusluv/Faculdade.">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=teusluv&repo=Faculdade.&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=teusluv&repo=Faculdade%2E&theme=tokyonight&cache_seconds=86400" />
   </a>
 </p>
 
